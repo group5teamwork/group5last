@@ -17,6 +17,7 @@ public class group
             System.out.print("Choose the operation you want to perform:");
             System.out.print("Choose the operation you want to perform:");
             System.out.println("thankyou dear");
+            
             int n = s.nextInt();
             switch(n)
             {
